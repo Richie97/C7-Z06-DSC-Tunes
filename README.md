@@ -15,4 +15,4 @@ Just a repo for all the DSC Tunes I may find/edit/use/
 
 [ZR-1newshockCaltables-11-27-2019.pdts](C7-Corvette/ZR-1newshockCaltables-11-27-2019.pdts) -- ZR1 Specific File I found on [CorvetteForum](https://corvetteforum.com). Never trust random things on the internet. I have not used this, and it might be set for Tractive shocks. 
 
-[stock_dsc.pdts](C7-Corvette/stock_dsc.pdts) -- Stock tune my DSC v4 arrived with. Very different from above base tune. 
+[stock_dsc.pdts](C7-Corvette/stock_dsc.pdts) -- Stock tune my DSC v4 arrived with. Very different from the base tune DSC sent me. It was very soft.  
