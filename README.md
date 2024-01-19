@@ -9,7 +9,7 @@ Just a repo for all the DSC Tunes I may find/edit/use/
 5. Edit away
 
 ### C7 Corvette
-[[Title](C7-Corvette/Stiffer-Track-PTM.pdts)] -- Base tune with stiffer shock cal on PTM track modes. 
+[Stiffer-Track-PTM.pdts](C7-Corvette/Stiffer-Track-PTM.pdts) -- Base tune with stiffer shock cal on PTM track modes. 
 
 [C7_ZR1-Z06-GS-ALL_Standard_TC_08-05-2022.pdts](C7-Corvette/C7_ZR1-Z06-GS-ALL_Standard_TC_08-05-2022.pdts) -- Tune DSC Sent me as the base C7 Tune. 
 
